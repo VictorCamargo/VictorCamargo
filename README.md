@@ -4,7 +4,7 @@
 - 💼 I’m currently working at [TUI GDN](https://www.tuigroup.com/en-en) as Senior Front-end Engineer.
 - 🌱 I'm passionate about self-growth and continuos learning.
 - 👯 I’m looking to collaborate on Open Source projects.
-- 📫 How to reach me: [Email](mailto:victorcamargodev@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/victorcamargodev)
+- 📫 How to reach me: <a href="mailto:victorcamargodev@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/victorcamargodev" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Technology often helped me solve real-world problems, even if it's not related to work.
 
