@@ -38,6 +38,4 @@
 
 <br />
 
-[![Mu github stats](https://github-readme-stats.vercel.app/api?username=victorcamargo&count_private=true&theme=buefy&show_icons=true)](https://github.com/victorcamargo)
-
-<!-- <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcamargo&layout=compact&card_width=370&theme=buefy" /> --!>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=victorcamargo&count_private=true&theme=buefy&show_icons=true)](https://github.com/victorcamargo)
