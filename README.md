@@ -7,7 +7,7 @@
 - 🌱 I'm passionate about self-growth and continuos learning.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me: [Email](mailto:victorcamargodev@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/victorcamargodev)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Technology often helped me solve real-world problems, even if it is not related to work.
 
 #### Languages and Tools:
