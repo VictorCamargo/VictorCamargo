@@ -1,7 +1,7 @@
 ### Hi, I'm Victor Camargo, a passionate Software Engineer from Brazil.
 
-- 👨‍💻  I'm a **Software Engineer**.
-- 💼 I’m currently working at [TUI GDN](https://www.tuigroup.com/en-en) as Senior Front-end Engineer.
+- 👨‍💻 I'm a **Software Engineer**.
+- 💼 I’m currently working at [Onfido](https://onfido.com) as Senior Front End Engineer.
 - 🌱 I'm passionate about self-growth and continuos learning.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me: [Email](mailto:victorcamargodev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victorcamargodev)
