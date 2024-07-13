@@ -1,4 +1,4 @@
-### Hi, I'm Victor Camargo, a passionate Software Engineer from Brazil.
+### Hi, I'm Victor Camargo, a passionate Software Engineer from.
 
 - 👨‍💻 I'm a **Software Engineer**.
 - 💼 I’m currently working at [Onfido](https://onfido.com) as Senior Front End Engineer.
