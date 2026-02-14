@@ -33,7 +33,3 @@
 <br />
 
 <a href="https://stackoverflow.com/users/2437999/victor-camargo"><img src="https://stackexchange.com/users/flair/2837714.png" width="208" height="58" alt="profile for Victor Camargo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Victor Camargo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-<br />
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=victorcamargo&count_private=true&theme=buefy&show_icons=true)](https://github.com/victorcamargo)
